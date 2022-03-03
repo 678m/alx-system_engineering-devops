@@ -1,3 +1,2 @@
-#1/bin/bash
-# display current working directory
+#!/bin/bash
 pwd
