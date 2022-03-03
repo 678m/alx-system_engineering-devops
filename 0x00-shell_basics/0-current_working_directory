@@ -1,0 +1,3 @@
+#1/bin/bash
+# display current working directory
+pwd
