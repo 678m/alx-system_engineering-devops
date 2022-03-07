@@ -1,1 +1,1 @@
- prints out currents working directory
+print out current working directory
